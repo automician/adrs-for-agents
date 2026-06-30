@@ -1,15 +1,15 @@
 # Decisions
 
-> Engineering and process decisions — how we build and document — recorded as
-> lightweight ADRs (Architecture Decision Records). One file per decision:
-> `ADR-NNN-<slug>.md`.
->
-> Scope is **engineering/process only** ("how we work"). **Product/feature
-> decisions live alongside their own feature documentation** — not here.
->
-> To add one: copy the template below, take the next number, start at
-> `status: proposed`. Propagation: a decision that changes a documented
-> convention updates that doc in the same pass.
+Engineering and process decisions — how we build and document — recorded as
+lightweight ADRs (Architecture Decision Records). One file per decision:
+`ADR-NNN-<slug>.md`.
+
+Scope is **engineering/process only** ("how we work"). **Product/feature
+decisions live alongside their own feature documentation** — not here.
+
+To add one: copy the template below, take the next number, start at
+`status: proposed`. Propagation: a decision that changes a documented convention
+updates that doc in the same pass.
 
 ## ADR format
 
