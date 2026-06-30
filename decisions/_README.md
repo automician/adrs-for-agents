@@ -110,3 +110,6 @@ deprecated when:** ….>
 - **Decision-meta stays visible.** Status markers, working-hypothesis caveats,
   verifying events, dated amendments are decision-bearing — keep them in body
   prose. Only pure provenance/process asides go in `<!-- -->`.
+- **Dash house style.** A spaced **em-dash** `—` marks a parenthetical break;
+  reserve the en-dash `–` for numeric ranges, and never write `--` (it renders
+  as two literal hyphens in GitHub-flavored markdown, not a dash).

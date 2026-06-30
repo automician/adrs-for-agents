@@ -14,7 +14,7 @@ the MIT license.
 The ADRs live in [`decisions/`](decisions/); their format and the conventions
 they follow are in [`decisions/_README.md`](decisions/_README.md).
 
-- [ADR-001 — Optimize docs for agents first, humans a close second (~80/20)](decisions/ADR-001-optimize-docs-for-agents-first.md)
+- [ADR-001 — Let the reader closest to each doc surface shape it](decisions/ADR-001-closer-reader-shapes-each-surface.md)
   — the lens the others resolve under.
 - [ADR-002 — Docs never duplicate code; the only duplication is ephemeral](decisions/ADR-002-no-code-duplication-in-docs.md)
 - [ADR-003 — A doc's orientation summary is a positional opening intro](decisions/ADR-003-positional-orientation-intro.md)

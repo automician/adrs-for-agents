@@ -50,8 +50,8 @@ mechanism); the tree strategy builds on it.
 
 Choosing position over a marker is the rare **both-win**: humans aren't forced
 into a blockquote rendering, and agents get cleaner extraction with `>` freed
-for callouts — so under [ADR-001](ADR-001-optimize-docs-for-agents-first.md) it
-isn't even a trade-off to arbitrate.
+for callouts — so under [ADR-001](ADR-001-closer-reader-shapes-each-surface.md)
+it isn't even a trade-off to arbitrate.
 
 ## Consequences
 

@@ -117,5 +117,6 @@ separately.
 
 ## Connected
 
-- [ADR-001](ADR-001-optimize-docs-for-agents-first.md) — the agent-first lens;
-  minimizing the always-loaded tax is one application of it.
+- [ADR-001](ADR-001-closer-reader-shapes-each-surface.md) — the closer-reader
+  lens; placing each rule by its closest consumer is one application of it
+  (placement here, form-lean there).

@@ -95,6 +95,9 @@ need.
 
 ## Connected
 
-- [ADR-001](ADR-001-optimize-docs-for-agents-first.md) — the agent-first
-  (~80/20) lens; this ADR's agentic-fragility argument (cheaper models
-  confabulate over a stored exception) is one application of it.
+- [ADR-001](ADR-001-closer-reader-shapes-each-surface.md) — the closer-reader
+  lens this set resolves under; ADR-002 guards the same version-controlled
+  substrate from a different angle — removing stored duplication _by
+  construction_ keeps it un-rotted, and the agentic-fragility argument (cheaper
+  models confabulate over a stored exception) is why discipline alone can't hold
+  it.
