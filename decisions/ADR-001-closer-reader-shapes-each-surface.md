@@ -74,6 +74,11 @@ about whose needs matter more. Concretely:
   from, even though an agent would parse a stripped-down version just as well.
   Same rule, opposite leans — no reader is globally demoted, because closeness,
   not rank, decides.
+- **Deeper grounding for adopters** — the empirical evidence and the reflections
+  behind this rule (why the lean cuts both ways, the raw-surface-plus-rendered-
+  view pattern, the terseness floor, and the Goodhart reason a concession is a
+  tracked decision) live in
+  [`considerations.md`](ADR-001-closer-reader-shapes-each-surface.assets/considerations.md).
 
 ## Trigger to revisit
 
